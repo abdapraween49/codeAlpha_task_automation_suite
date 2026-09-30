@@ -1,0 +1,2 @@
+# Standard library modules (os, shutil, re, pathlib, logging) are built-in.
+# No external dependencies required.
